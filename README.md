@@ -67,7 +67,7 @@ median: 0.205617162334
 ```
 
 4. Run *ProcessDimerACoords.py*. This step will convert CC fragment coordinates from file 
-*dimer_a_unique_0.2.pkl* into 'extended' parametrization and test the reconstruction accuracy.
+*dimer_a_unique_0.2.pkl* into 'extended' parameterization and test the reconstruction accuracy.
 The results will be stored in the file *dimer_a_params_coords.pkl*.
 
 Expected output (cf. Fig 3c):
@@ -79,7 +79,7 @@ mean: 0.232043925963
 median: 0.212188994827
 ```
 
-5. Run *CCParamsStats.py*. This script will go through CC paramaterizations with the number of parameters 
+5. Run *CCParamsStats.py*. This script will go through CC parameterizations with the number of parameters 
 varying from 1 to 10 and output reconstruction statistics. Every reconstruction's parameters are optimised to minimize RMSD
 to the target structures, so it'll take a while. 
 
