@@ -1,7 +1,6 @@
 from CCParamsLib import *
 
 cc_coords_all = cPickle.load(open('dimer_a_unique_0.2.pkl', "rb"))
-cc_coords_all = np.array(cc_coords_all)
 
 n_cc = cc_coords_all.shape[0]
 rmss = []

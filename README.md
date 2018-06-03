@@ -31,3 +31,18 @@ Interactive visualisation of the CC parameters in PyMOL. Requires PyQT5, PyRoset
 ### helix_template.pkl and pca_dimer_a.pkl
 
 Pickled PCA objects with parameterizations of an a-helical and a dimeric CC (a-cluster) fragments.
+
+# Reproducing results of the paper
+
+1. Extract MMOL.tar.xz
+2. Run ExtractDimerACoords.py  
+Output:
+```
+Number of coiled coil records: 1866
+Total number of fragments collected: 4118
+Number of unique fragments: 2624
+Number of unique fragments excluding outliers: 2538
+```
+Two files should appear, dimer_a_all.pkl and dimer_a_unique_0.2.pkl
+
+3. (Optional) Run 

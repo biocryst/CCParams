@@ -6,7 +6,7 @@ from Bio.SVDSuperimposer import SVDSuperimposer
 from sklearn.decomposition import PCA
 
 
-cc_coords_all= cPickle.load(open('dimer_all.pkl', "rb"))
+cc_coords_all= cPickle.load(open('dimer_a_all.pkl', "rb"))
 cc_coords_all = np.array(cc_coords_all)
 
 hel_coords_all = np.reshape(cc_coords_all,(cc_coords_all.shape[0]*2,int(cc_coords_all.shape[1]/2),cc_coords_all.shape[2]))

@@ -956,8 +956,6 @@
 			3ii6_2.mmol D 137 198 NQAKNEHLQKENERLLRDWNDVQGRFEKCVSAKEALETDLYKRFILVLNEKKTKIRSLHNKL defgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcddefgabcdefga
 			3iwz_1.mmol A 141 155 LSKRLLDTTRKASRL defgabcdefgabcd
 			3iwz_1.mmol D 141 155 LSKRLLDTTRKASRL defgabcdefgabcd
-			3jax.pdb B 888 965 MVSLLQEKNDLQLQVQAEQDNLADAEERCDQLIKNKIQLEAKVKEMNERLEDEEEMNAELTAKKRKLEDECSELKRDI abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefga
-			3jax.pdb A 888 965 MVSLLQEKNDLQLQVQAEQDNLADAEERCDQLIKNKIQLEAKVKEMNERLEDEEEMNAELTAKKRKLEDECSELKRDI abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefga
 			3jb9.pdb S 101 122 LSTALYSLDAALRVISRLTKER abcdefgabcdefgabcdefga
 			3jb9.pdb V 101 122 LSTALYSLDAALRVISRLTKER abcdefgabcdefgabcdefga
 			3jb9.pdb U 87 122 QFELRRNLTETKQELSTALYSLDAALRVISRLTKER abcdefgabcdefgabcdefgabcdefgabcdefga
@@ -968,10 +966,6 @@
 			3jbh.pdb A 888 955 LFLQLESERSGAGDVEERLTKAISMKNDLEGQVQELQERLSREEDAHSNLSSVRKKLDGEISNLKKEI defgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefga
 			3jbh.pdb H 860 955 ALESLEKEEKVRKDIEVQNVKLLQEKNDLFLQLESERSGAGDVEERLTKAISMKNDLEGQVQELQERLSREEDAHSNLSSVRKKLDGEISNLKKEI defgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefga
 			3jbh.pdb G 860 955 ALESLEKEEKVRKDIEVQNVKLLQEKNDLFLQLESERSGAGDVEERLTKAISMKNDLEGQVQELQERLSREEDAHSNLSSVRKKLDGEISNLKKEI defgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefga
-			3jck.pdb G 238 255 LAATKSMVKIAEQYSKRI abcdefgabcdefgabcd
-			3jck.pdb C 408 425 TYDSALELVGQLNKVVDQ abcdefgabcdefgabcd
-			3jcu.pdb M 13 27 LFILVPTAFLLIIYV abcdefgabcdabcd
-			3jcu.pdb m 13 27 LFILVPTAFLLIIYV abcdefgabcdabcd
 			3jsv_1.mmol C 263 288 AEEALVAKQELIDKLKEEAEQHKIVM defgabcdefgabcdefgabcdefga
 			3jsv_1.mmol D 263 288 AEEALVAKQELIDKLKEEAEQHKIVM defgabcdefgabcdefgabcdefga
 			3jsv_1.mmol C 291 312 VPVLKAQADIYKADFQAERHAR abcdefgabcdefgabcdefga
@@ -1538,10 +1532,6 @@
 			4kfm_1.mmol L 9 23 IAQARKLVEQLKMEA abcdefgabcdefga
 			4kg1_1.mmol A 127 145 PSMVAHFLRRSIVRVVNNE defgabcdefgabcdefga
 			4kg1_1.mmol B 127 145 PSMVAHFLRRSIVRVVNNE defgabcdefgabcdefga
-			4knh_1.mmol A 868 882 PLVVSILRAIQVMIK defgabcdefgabcd
-			4knh_1.mmol B 868 882 PLVVSILRAIQVMIK defgabcdefgabcd
-			4knh_1.mmol B 783 797 RILRLSCLDFVMVCL defgabcdefgabcd
-			4knh_1.mmol A 783 797 RILRLSCLDFVMVCL defgabcdefgabcd
 			4kp3_1.mmol D 76 93 VEELRMERDNLKQEVEGL abcdefgabcdefgabcd
 			4kp3_1.mmol C 76 93 VEELRMERDNLKQEVEGL abcdefgabcdefgabcd
 			4kum_1.mmol A 421 442 KHVKDEQIEHWKKIVKTQEELK abcdefgabcdefgabcdefga
@@ -1682,18 +1672,6 @@
 			4pky_1.mmol C 586 628 VLALQASLRKAQMQNHSLEMTLEQKTKEIDELTRICDDLISKM abcdefgabcdefgabcdefgabcdefgabcdefgabcdefga
 			4pna_1.mmol G 5 29 AQALKEIAKALKEIAWALKEIAQAL abcdefgabcdefgabcdefgabcd
 			4pna_1.mmol F 4 28 IAQALKEIAKALKEIAWALKEIAQA abcdefgabcdefgabcdefgabcd
-			4pw8_2.mmol E 306 320 VPFQLLTSLMDIDSL defgabcdefgabcd
-			4pw8_2.mmol E 108 122 MLKVVSRMHRVSVIL defgabcdefgabcd
-			4pw8_2.mmol F 306 320 VPFQLLTSLMDIDSL defgabcdefgabcd
-			4pw8_2.mmol B 306 320 VPFQLLTSLMDIDSL defgabcdefgabcd
-			4pw8_2.mmol F 108 122 MLKVVSRMHRVSVIL defgabcdefgabcd
-			4pw8_2.mmol B 108 122 MLKVVSRMHRVSVIL defgabcdefgabcd
-			4pw8_2.mmol G 306 320 VPFQLLTSLMDIDSL defgabcdefgabcd
-			4pw8_2.mmol G 108 122 MLKVVSRMHRVSVIL defgabcdefgabcd
-			4pw8_2.mmol H 306 320 VPFQLLTSLMDIDSL defgabcdefgabcd
-			4pw8_2.mmol D 306 320 VPFQLLTSLMDIDSL defgabcdefgabcd
-			4pw8_2.mmol D 108 122 MLKVVSRMHRVSVIL defgabcdefgabcd
-			4pw8_2.mmol H 108 122 MLKVVSRMHRVSVIL defgabcdefgabcd
 			4q0t_1.mmol A 434 455 THGKIVKSEYWLAKMIDLFPVA abcdefgabcdefgabcdefga
 			4q0t_1.mmol A 497 518 RESLMTSISKSKEAVSLLNDAI abcdefgabcdefgabcdefga
 			4q0t_1.mmol B 434 455 THGKIVKSEYWLAKMIDLFPVA abcdefgabcdefgabcdefga
@@ -1780,8 +1758,6 @@
 			4rfx.pdb B 436 527 LTERNLDLEEKVRELRETVGDLEAMNEMNDELQENARETELELREQLDLAAARVREAEKRVEAAQETVADYQQTIKKYRELTAHLQDVNREL defgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
 			4rfx.pdb C 436 527 LTERNLDLEEKVRELRETVGDLEAMNEMNDELQENARETELELREQLDLAAARVREAEKRVEAAQETVADYQQTIKKYRELTAHLQDVNREL defgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
 			4rfx.pdb D 436 527 LTERNLDLEEKVRELRETVGDLEAMNEMNDELQENARETELELREQLDLAAARVREAEKRVEAAQETVADYQQTIKKYRELTAHLQDVNREL defgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			4rvy.pdb M 13 27 LFVLVPSVFLIILYV abcdefgabcdabcd
-			4rvy.pdb m 13 27 LFVLVPSVFLIILYV abcdefgabcdabcd
 			4tl3_1.mmol A 104 121 FLMSTQIVVITSGLIADL abcdefgabcdefgabcd
 			4tl3_1.mmol B 104 121 FLMSTQIVVITSGLIADL abcdefgabcdefgabcd
 			4u5t_1.mmol A 5 33 LEIRAAFLEKENTALRTEVAELRKEVGRC defgabcdefgabcdefgabcdefgabcd
@@ -1814,10 +1790,6 @@
 			4w7y_1.mmol A 170 222 ECVLEAENKKLVEDQEKLKTELRKTSDALSKAQNDVXEXKXQSERLSKEYDQL abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
 			4w8f_1.mmol A 1441 1455 IQVNWVEVQFYWLDL abcdefgabcdefga
 			4w8f_1.mmol A 1506 1520 DTTLKLTIDSLKMIK abcdefgabcdefga
-			4whv.pdb D 347 389 HWALMEELNRSKKDFEAIIQAKNKELEQTKEEKEKMQAQKEEV defgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			4whv.pdb C 347 389 HWALMEELNRSKKDFEAIIQAKNKELEQTKEEKEKMQAQKEEV defgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			4wl5.pdb A 355 373 LKDVIYHAKELQLELKKKK defgabcdefgabcdefga
-			4wl5.pdb A 307 325 LLDLAHRIRDENTRLAEQL defgabcdefgabcdefga
 			4wy4_1.mmol C 50 95 LRRAEATAASTSRSLALMYESEKVGVASSEELARQRGVLERTEKMV abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
 			4wy4_1.mmol D 195 240 LRAYHQKIDSNLDELSMGLGRLKDIALGMQTEIEEQDDILDRLTTK abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
 			4x01_1.mmol A 19 54 LGNLLEQYEVEIARLKSQLVLEKKLRIQVEKEMESV defgabcdefgabcdefgabcdefgabcdefgabcd
@@ -1826,34 +1798,20 @@
 			4x01_1.mmol D 19 40 LGNLLEQYEVEIARLKSQLVLE defgabcdefgabcdefgabcd
 			4xa4.pdb A 1530 1601 ICYCLDTTAENQAKNEHLQKELEHEEGKILRAQLEFNQIKAEIERKLAEKDEEMEQAKRNHLRVVDSLQTSL abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgdefgabcdefgabcdefgdefga
 			4xa4.pdb B 1530 1601 ICYCLDTTAENQAKNEHLQKELEHEEGKILRAQLEFNQIKAEIERKLAEKDEEMEQAKRNHLRVVDSLQTSL abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgdefgabcdefgabcdefgdefga
-			4xbf.pdb A 421 445 KHVKDEQIEHWKKIVKTQEELKELL abcdefgabcdefgabcdefgabcd
-			4xbf.pdb B 335 359 LRQLDMELVSVKRQIQNIKQTNSAL abcdefgabcdefgabcdefgabcd
 			4y66_3.mmol E 80 108 ARTELARLQKALEEQTNFIDKATARIEEL defgabcdefgabcdefgabcdefgabcd
 			4y66_3.mmol F 84 112 VNAQINDLKAQVEKLTQQGETLRITQRNL defgabcdefgabcdefgabcdefgabcd
 			4y66_3.mmol E 121 135 LLKEKLALQVKLEEQ defgabcdefgabcd
 			4y66_3.mmol F 121 135 LKQEVDELRQQVSAN defgabcdefgabcd
-			4y99.pdb C 90 132 FAELQDLARQLHARVDKVDEERYDIEAKVTKNITEIADLTQKI abcdefgabcdefgabcdefgabcdefgabcdefgabcdefga
-			4y99.pdb B 226 268 EDQLREKAKELWQTIYNLEAEKFDLQEKFKQQKYEINVLRNRI abcdefgabcdefgabcdefgabcdefgabcdefgabcdefga
 			4ytd_1.mmol B 720 738 VTETXTKLRNELKALKEDA defgabcdefgabcdefga
 			4ytd_1.mmol A 720 738 VTETXTKLRNELKALKEDA defgabcdefgabcdefga
 			4ytd_1.mmol B 752 797 CDEYVTQLDEXQRQLAAAEDEKKTLNTLLRXAIQQKLALTQRLEDL abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
 			4ytd_1.mmol A 752 797 CDEYVTQLDEXQRQLAAAEDEKKTLNTLLRXAIQQKLALTQRLEDL abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			4yut.pdb B 108 122 IKVLLQTLTESHRIL defgabcdefgabcd
-			4yut.pdb A 108 122 IKVLLQTLTESHRIL defgabcdefgabcd
-			4z6y.pdb C 951 969 QKRITQVFELEILDLYGRL defgabcdefgabcdefga
-			4z6y.pdb F 951 969 QKRITQVFELEILDLYGRL defgabcdefgabcdefga
-			4z6y.pdb H 951 969 QKRITQVFELEILDLYGRL defgabcdefgabcdefga
-			4z6y.pdb D 951 969 QKRITQVFELEILDLYGRL defgabcdefgabcdefga
 			4zdw.pdb B 52 137 YNQLKEDYNTLKRELSDRDDEVKRLREDIAKENELRTKAEEEADKLNKEVEDLTASLFDEANNMVADARKEKYAIEILNKRLTEQL abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcddefgabcdefga
 			4zdw.pdb C 52 137 YNQLKEDYNTLKRELSDRDDEVKRLREDIAKENELRTKAEEEADKLNKEVEDLTASLFDEANNMVADARKEKYAIEILNKRLTEQL abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcddefgabcdefga
 			4zq8.pdb A 179 193 DRFVHDIARLHLGYL defgabcdefgabcd
 			4zq8.pdb B 179 193 DRFVHDIARLHLGYL defgabcdefgabcd
 			4zry.pdb A 375 439 LEIELQSQLALKQSLEASLAETEGRYCVQLSQIQAQISALEEQLQQIRAETECQNTEYQQLLDIK defgabcdefgabcdefgabcdefgabcdefgdefgabcdefgabcdefgabcdefgabcdefga
 			4zry.pdb B 408 472 LRSEIDNVKKQISNLQQSISDAEQRGENALKDAKNKLNDLEDALQQAKEDLARLLRDYQELMNTK defgabcdefgabcdefgabcdefgabcdefgdefgabcdefgabcdefgabcdefgabcdefga
-			4zvc.pdb A 183 197 ERQIASILSWEIDII defgabcdefgabcd
-			4zvc.pdb B 183 197 ERQIASILSWEIDII defgabcdefgabcd
-			4zvd.pdb A 183 197 ERQIASILSWEIDII defgabcdefgabcd
-			4zvd.pdb B 183 197 ERQIASILSWEIDII defgabcdefgabcd
 			5a5b.pdb K 58 82 YELLTLQEDYIKDEQRHLKRELKRA abcdefgabcdefgabcdefgabcd
 			5a5b.pdb J 34 58 IRSKTENVRRLEAQRNALNDKVRFI abcdefgabcdefgabcdefgabcd
 			5ajs.pdb A 257 306 LLRKLNEQRDILALMEVKMKEMKGSIRHLRLTEAKLREELREKDRLLAMA defgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
@@ -1876,32 +1834,6 @@
 			5chx.pdb B 1573 1653 ICYCLDTTAENQAXNEHHLRVVDSLQTSLDAETRSRNEALRVXXXMEGDLNEMEIQLSHANRMAAEAQXQVXSLQSLLXDT abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
 			5cj0.pdb A 1629 1685 NEHANRMAAEAQKQVKSLQSLLKDTQIQLDDAVRANDDLKENIAIVERRNNLLQAEL abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefga
 			5cj0.pdb B 1629 1685 NEHANRMAAEAQKQVKSLQSLLKDTQIQLDDAVRANDDLKENIAIVERRNNLLQAEL abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefga
-			5cj1.pdb A 1509 1547 YGSFVSEYNDLTKSHEKLEKVRKQLEAEKMELQSALEEA abcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			5cj1.pdb B 1509 1547 YGSFVSEYNDLTKSHEKLEKVRKQLEAEKMELQSALEEA abcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			5cj1.pdb C 1509 1547 YGSFVSEYNDLTKSHEKLEKVRKQLEAEKMELQSALEEA abcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			5cj1.pdb D 1509 1547 YGSFVSEYNDLTKSHEKLEKVRKQLEAEKMELQSALEEA abcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			5cj1.pdb F 1509 1547 YGSFVSEYNDLTKSHEKLEKVRKQLEAEKMELQSALEEA abcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			5cj1.pdb E 1509 1547 YGSFVSEYNDLTKSHEKLEKVRKQLEAEKMELQSALEEA abcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			5cj1.pdb G 1509 1554 YGSFVSEYNDLTKSHEKLEKVRKQLEAEKMELQSALEEAEASLEHE abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			5cj1.pdb H 1509 1554 YGSFVSEYNDLTKSHEKLEKVRKQLEAEKMELQSALEEAEASLEHE abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			5cj4.pdb A 1558 1604 NEHLQLEFNQIXAEIERXLAEXDEEMEQAXRNHLRVVDSLQTSLDAE abcdefgabcdefgabcdefgabcdefgabcdefgabcddefgabcd
-			5cj4.pdb B 1558 1604 NEHLQLEFNQIXAEIERXLAEXDEEMEQAXRNHLRVVDSLQTSLDAE abcdefgabcdefgabcdefgabcdefgabcdefgabcddefgabcd
-			5cj4.pdb C 1544 1608 ICYCLDTTAENQAXNEHLQLEFNQIXAEIERXLAEXDEEMEQAXRNHLRVVDSLQTSLDAETRSR abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcddefgabcdefga
-			5cj4.pdb D 1544 1608 ICYCLDTTAENQAXNEHLQLEFNQIXAEIERXLAEXDEEMEQAXRNHLRVVDSLQTSLDAETRSR abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcddefgabcdefga
-			5cof.pdb A 50 67 RDLVSYLLGWNALVVKWI abcdefgabcdefgabcd
-			5cof.pdb A 104 121 YELLVAELQTVKNEIVNL abcdefgabcdefgabcd
-			5cog.pdb A 45 59 SENLSYQLGWVNLLL abcdefgabcdefga
-			5cog.pdb A 99 113 IKEQRAKLREAVNEV abcdefgabcdefga
-			5cog.pdb B 45 59 SENLSYQLGWVNLLL abcdefgabcdefga
-			5cog.pdb B 99 113 IKEQRAKLREAVNEV abcdefgabcdefga
-			5com.pdb A 56 70 AENLAYQVGWTTLVL abcdefgabcdefga
-			5com.pdb A 110 124 LQELKSKLNENINSI abcdefgabcdefga
-			5com.pdb B 56 70 AENLAYQVGWTTLVL abcdefgabcdefga
-			5com.pdb B 110 124 LQELKSKLNENINSI abcdefgabcdefga
-			5cqv.pdb A 56 70 AENLAYQVGWTTLIL abcdefgabcdefga
-			5cqv.pdb A 110 124 IKELTAQLNDNVDAI abcdefgabcdefga
-			5cqv.pdb B 56 70 AENLAYQVGWTTLIL abcdefgabcdefga
-			5cqv.pdb B 110 124 IKELTAQLNDNVDAI abcdefgabcdefga
 			5cvy.pdb A 540 555 SLVKAFTFFAAATKLE defgabcdefgabcde
 			5cvy.pdb A 416 430 AWPMERVAELYYIFV defgabcdefdabcd
 			5cw3.pdb B 232 260 AEHHLMSLIPKVCESDLEVAELEKQVHEL defgabcdefgabcdefgabcdefgabcd
@@ -1910,14 +1842,6 @@
 			5cw3.pdb C 219 247 TKPLVQTFEKRIALNKLRATHLQRQLQEL defgabcdefgabcdefgabcdefgabcd
 			5cw4.pdb B 232 260 AEHHLXSLIPKVCESDLEVAELEKQVHEL defgabcdefgabcdefgabcdefgabcd
 			5cw4.pdb A 219 247 TKPLVQTFEKRIALNKLRATHLQRQLQEL defgabcdefgabcdefgabcdefgabcd
-			5cw5.pdb B 232 260 AEHHLMSLIPKVCESDLEVAELEKQVHEL defgabcdefgabcdefgabcdefgabcd
-			5cw5.pdb A 219 247 TKPLVQTFEKRIALNKLRATHLQRQLQEL defgabcdefgabcdefgabcdefgabcd
-			5cw5.pdb D 232 257 AEHHLMSLIPKVCESDLEVAELEKQV defgabcdefgabcdefgabcdefga
-			5cw5.pdb C 219 244 TKPLVQTFEKRIALNKLRATHLQRQL defgabcdefgabcdefgabcdefga
-			5cwf.pdb A 49 63 EMAKVMLALAKAVLL defgabcdefgabcd
-			5cwf.pdb A 96 110 AKVMLALAKAVLLAA defgabcdefgabcd
-			5cwf.pdb D 49 63 EMAKVMLALAKAVLL defgabcdefgabcd
-			5cwf.pdb D 96 110 AKVMLALAKAVLLAA defgabcdefgabcd
 			5cwi.pdb A 65 86 KLCIKAASEAAEAASKAAELAQ abcdefgabcdefgabcdefga
 			5cwi.pdb A 3 24 IEKLCKKAESEAREARSKAEEL abcdefgabcdefgabcdefga
 			5cwi.pdb A 40 54 LASQAEEAVKLACEL abcdefgabcdefga
@@ -1926,42 +1850,12 @@
 			5cwi.pdb A 132 146 SEAAEAASKAAELAQ abcdefgabcdefga
 			5cwi.pdb A 100 114 LASQAAEAVKLACEL abcdefgabcdefga
 			5cwi.pdb A 162 176 SQAAEAVKLACELAQ abcdefgabcdefga
-			5cy5.pdb B 145 159 YANMLSNILFMHALI abcdefgabcdefga
-			5cy5.pdb B 83 97 IIYLIKRSVEMKAEI abcdefgabcdefga
 			5d5y.pdb A 164 206 IAALSESLQATQQQLQALQQQCYELEKTNRLLVSEVMTLQKMV defgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
 			5d5y.pdb B 163 205 QIAALSESLQATQQQLQALQQQCYELEKTNRLLVSEVMTLQKM defgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
-			5d5z.pdb D 178 206 LQALQQQCYELEKTNRLLVSEVMTLQKMV defgabcdefgabcdefgabcdefgabcd
-			5d5z.pdb E 177 205 QLQALQQQCYELEKTNRLLVSEVMTLQKM defgabcdefgabcdefgabcdefgabcd
-			5d7g.pdb F 32 46 FEEIILQYNKLLEKS abcdefgabcdefga
-			5d7g.pdb H 32 46 FEEIILQYNKLLEKS abcdefgabcdefga
-			5d91.pdb A 174 191 LVVLIVLAIASVVTIFQR abcdefgabcdefgabcd
-			5d91.pdb A 115 132 IAILALICLVLSSLVSYS abcdefgabcdefgabcd
-			5d92.pdb D 174 191 LVVLIVLAIASVVTIFQR abcdefgabcdefgabcd
-			5d92.pdb D 115 132 IAILALICLVLSSLVSYS abcdefgabcdefgabcd
-			5d92.pdb A 174 191 LVVLIVLAIASVVTIFQR abcdefgabcdefgabcd
-			5d92.pdb A 115 132 IAILALICLVLSSLVSYS abcdefgabcdefgabcd
-			5d92.pdb B 174 191 LVVLIVLAIASVVTIFQR abcdefgabcdefgabcd
-			5d92.pdb B 115 132 IAILALICLVLSSLVSYS abcdefgabcdefgabcd
-			5d92.pdb C 174 191 LVVLIVLAIASVVTIFQR abcdefgabcdefgabcd
-			5d92.pdb C 115 132 IAILALICLVLSSLVSYS abcdefgabcdefgabcd
 			5djn.pdb C 368 431 IRELREEVEKLREQLSQAEAMKAELKEKLEESEKLIKELTVTWEEKLRKTEAIAQERQRQLESM abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdabcdefgabcdefgabcd
 			5djn.pdb A 368 431 IRELREEVEKLREQLSQAEAMKAELKEKLEESEKLIKELTVTWEEKLRKTEAIAQERQRQLESM abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcdabcdefgabcdefgabcd
-			5djo.pdb A 4 21 APELKEKLEESEKLIKEL abcdefgabcdefgabcd
-			5djo.pdb B 4 21 APELKEKLEESEKLIKEL abcdefgabcdefgabcd
-			5ejc.pdb D 948 965 YEAQKRITQVFELEILDL abcdefgabcdefgabcd
-			5ejc.pdb C 948 965 YEAQKRITQVFELEILDL abcdefgabcdefgabcd
-			5ejc.pdb F 948 965 YEAQKRITQVFELEILDL abcdefgabcdefgabcd
-			5ejc.pdb E 948 965 YEAQKRITQVFELEILDL abcdefgabcdefgabcd
 			5ez8.pdb G 5 30 AQALKEIAKALKEIAWACKEIAQALK abcdefgabcdefgabcdefgabcde
 			5ez8.pdb F 4 28 IAQALKEIAKALKEIAWACKEIAQA abcdefgabcdefgabcdefdabcd
-			5ez9.pdb F 4 28 IAKALREIAKALREIAWAHREIAKA abcdefgabcdefgabcdefgabcd
-			5ez9.pdb G 5 29 AKALREIAKALREIAWAHREIAKAL abcdefgabcdefgabcdefgabcd
-			5eza.pdb F 4 28 IAKALREIAKALRECAWAHREIAKA abcdefgabcdefgabcdefgabcd
-			5eza.pdb G 5 29 AKALREIAKALRECAWAHREIAKAL abcdefgabcdefgabcdefgabcd
-			5ezc.pdb F 4 28 IAKALREIAKALRECAWAHREEAKA abcdefgabcdefgabcdefgabcd
-			5ezc.pdb G 5 29 AKALREIAKALRECAWAHREEAKAL abcdefgabcdefgabcdefgabcd
-			5f1r.pdb A 110 124 LTHFFYVFQTLQKQV abcdefgabcdefga
-			5f1r.pdb B 110 124 LTHFFYVFQTLQKQV abcdefgabcdefga
 			5fcm.pdb A 33 64 VQKLVEDLVHTTDSYTAVKQQCAKQAQEIAAF abcdefgabcdefgabcdefgabcdefgabcd
 			5fcm.pdb B 33 64 VQKLVEDLVHTTDSYTAVKQQCAKQAQEIAAF abcdefgabcdefgabcdefgabcdefgabcd
 			5fcm.pdb C 33 61 VQKLVEDLVHTTDSYTAVKQQCAKQAQEI abcdefgabcdefgabcdefgabcdefga
@@ -1978,34 +1872,12 @@
 			5gai.pdb H 670 699 KTVASFQQDRSEDARANAELLLKGDEQTHK defgabcdefgabcdefgdefgabcdefga
 			5huz.pdb B 106 130 YEQILAENEKLKAQLHDTNMELTDL abcdefgabcdefgabcdefgabcd
 			5huz.pdb A 6 30 YEQILAENEKLKAQLHDTNMELTDL abcdefgabcdefgabcdefgabcd
-			5hyt.pdb C 59 76 INTLTDENEKLREELQQY abcdefgabcdefgabcd
-			5hyt.pdb A 59 76 INTLTDENEKLREELQQY abcdefgabcdefgabcd
-			5hyt.pdb G 59 76 INTLTDENEKLREELQQY abcdefgabcdefgabcd
-			5hyt.pdb E 59 76 INTLTDENEKLREELQQY abcdefgabcdefgabcd
 			5hzp.pdb A 67 95 LYDQIADLTDKNGEYLERIGELEERQKNL defgabcdefgabcdefgabcdefgabcd
 			5hzp.pdb C 67 95 LYDQIADLTDKNGEYLERIGELEERQKNL defgabcdefgabcdefgabcdefgabcd
-			5i2d.pdb G 83 107 HEALHRVARNLARQMRRVQAYEAHL abcdefgabcdefgabcdefgabcd
-			5i2d.pdb H 83 107 HEALHRVARNLARQMRRVQAYEAHL abcdefgabcdefgabcdefgabcd
-			5i2d.pdb R 83 107 HEALHRVARNLARQMRRVQAYEAHL abcdefgabcdefgabcdefgabcd
-			5i2d.pdb S 83 107 HEALHRVARNLARQMRRVQAYEAHL abcdefgabcdefgabcdefgabcd
-			5iwn.pdb B 267 281 MLQLIRDLSSKVDRL abcdefgabcdefga
-			5iwn.pdb C 268 282 LQLIRDLSSKVDRLE abcdefgabcdefga
-			5j1g.pdb A 1090 1104 LRSELELTLGKLEQV abcdefgabcdefga
-			5j1g.pdb A 1013 1027 ISELKDIRLQLEACE abcdefgabcdefga
-			5j1g.pdb B 1090 1104 LRSELELTLGKLEQV abcdefgabcdefga
-			5j1g.pdb B 1013 1027 ISELKDIRLQLEACE abcdefgabcdefga
-			5j1i.pdb B 1090 1104 LRSELELTLGKLEQV abcdefgabcdefga
-			5j1i.pdb B 1013 1027 ISELKDIRLQLEACE abcdefgabcdefga
 			5j73.pdb A 40 71 SDQLLDLIRELAEIIEELIRIIRRSNEAIKEL abcdefgabcdefgabcdefgabcdefgabcd
 			5j73.pdb B 40 71 SDQLLDLIRELAEIIEELIRIIRRSNEAIKEL abcdefgabcdefgabcdefgabcdefgabcd
 			5j73.pdb C 43 71 LLDLIRELAEIIEELIRIIRRSNEAIKEL defgabcdefgabcdefgabcdefgabcd
 			5j73.pdb D 43 71 LLDLIRELAEIIEELIRIIRRSNEAIKEL defgabcdefgabcdefgabcdefgabcd
-			5jhc.pdb k 7 21 ILEQLKKTLQMLTVE defgabcdefgabcd
-			5jhc.pdb U 4 18 QREILEQLKKTLQML defgabcdefgabcd
-			5jhc.pdb l 7 21 ILEQLKKTLQMLTVE defgabcdefgabcd
-			5jhc.pdb W 4 18 QREILEQLKKTLQML defgabcdefgabcd
-			5jke.pdb A 114 131 MLHLQKETFATYVARFQK abcdefgabcdefgabcd
-			5jke.pdb C 114 131 MLHLQKETFATYVARFQK abcdefgabcdefgabcd
 			5jv3.pdb A 12 43 IKEYTEEIERLKRDLAALEKERDFYFGKLRNI abcdefgabcdefgabcdefgabcdefgabcd
 			5jv3.pdb B 12 43 IKEYTEEIERLKRDLAALEKERDFYFGKLRNI abcdefgabcdefgabcdefgabcdefgabcd
 			5jv3.pdb C 12 33 IKEYTEEIERLKRDLAALEKER abcdefgabcdefgabcdefga
@@ -2016,22 +1888,6 @@
 			5jvp.pdb C 12 57 LKRYRKEIXDLKKQLEEVSLETRAQAXEKDQLEKERDFYFGKLRNI abcdefgabcdefgabcdefgabcdefgabcdefgabcdefgabcd
 			5jvp.pdb E 12 47 LKRYRKEIXDLKKQLEEVSLETRAQAXEKDQLEKER abcdefgabcdefgabcdefgabcdefgabcdefga
 			5jvp.pdb F 12 47 LKRYRKEIXDLKKQLEEVSLETRAQAXEKDQLEKER abcdefgabcdefgabcdefgabcdefgabcdefga
-			5jvr.pdb B 18 32 YEKEKEKVEDLEKER abcdefgabcdefga
-			5jvr.pdb A 18 32 YEKEKEKVEDLEKER abcdefgabcdefga
-			5jvr.pdb D 18 32 YEKEKEKVEDLEKER abcdefgabcdefga
-			5jvr.pdb C 18 32 YEKEKEKVEDLEKER abcdefgabcdefga
-			5jvr.pdb E 18 42 YEKEKEKVEDLEKERDFYFGKLRNI abcdefgabcdefgabcdefgabcd
-			5jvr.pdb F 18 42 YEKEKEKVEDLEKERDFYFGKLRNI abcdefgabcdefgabcdefgabcd
-			5jvr.pdb H 18 42 YEKEKEKVEDLEKERDFYFGKLRNI abcdefgabcdefgabcdefgabcd
-			5jvr.pdb G 18 42 YEKEKEKVEDLEKERDFYFGKLRNI abcdefgabcdefgabcdefgabcd
 			5jvu.pdb A 22 53 YEKEKEKNARLKGKVEDLEKERDFYFGKLRNI abcdefgabcdefgabcdefgabcdefgabcd
 			5jvu.pdb B 22 53 YEKEKEKNARLKGKVEDLEKERDFYFGKLRNI abcdefgabcdefgabcdefgabcdefgabcd
-			5ktb.pdb B 29 64 NFVLSEKLDTKATEIKQLQKQIDSLNAQVKELKTQT abcdefgabcdefgabcdefgabcdefgabcdefga
-			5ktb.pdb A 29 64 NFVLSEKLDTKATEIKQLQKQIDSLNAQVKELKTQT abcdefgabcdefgabcdefgabcdefgabcdefga
-			5l3b.pdb A 428 449 IEHWKKIVKTQEELKELLNKMV abcdefgabcdefgabcdefga
-			5l3b.pdb B 342 363 LVSVKRQIQNIKQTNSALKEKL abcdefgabcdefgabcdefga
-			5l3c.pdb A 421 445 KHVKDEQIEHWKKIVKTQEELKELL abcdefgabcdefgabcdefgabcd
-			5l3c.pdb B 335 359 LRQLDMELVSVKRQIQNIKQTNSAL abcdefgabcdefgabcdefgabcd
-			5l3d.pdb A 421 445 KHVKDEQIEHWKKIVKTQEELKELL abcdefgabcdefgabcdefgabcd
-			5l3d.pdb B 335 359 LRQLDMELVSVKRQIQNIKQTNSAL abcdefgabcdefgabcdefgabcd
 			
