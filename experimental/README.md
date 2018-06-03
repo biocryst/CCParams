@@ -1,3 +1,8 @@
+## Applications to other CC oligomeric states
+
+Disclaimer: the code/data here are provided for demonstration purposes only. 
+The data has not been cleaned, the code has neither been optimized nor validated 
+on a sufficiently large set of experimental structures. 
 
 ### Anti-parallel dimers
 
@@ -21,7 +26,7 @@ median: 0.230404333733
 ```
 
 
-2. Run *AntiCCParamsStats.py*, it will produce file *pca_dimer_a_10.pkl*, 
+2. Run *AntiCCParamsStats.py*. It will produce the file *pca_dimer_a_10.pkl*, 
 which can be used for interactive visualisation.
 
 Expected output:
@@ -36,5 +41,42 @@ median: 0.287034712615
 ```
 
 3. Launch interactive visualisation in PyMol, the same way as for the parallel dimer. 
-Since the training set here contains all registers, the default mean position will have two helices overlapped.
-The register here is controlled using first two parameters. 
+Since the training set here contains all registers, it is controlled with the first two parameters.
+The default mean position will have the two helices overlapped and PyMOL renderer somewhat confused. 
+As a workaround, first adjust the sliders to distance the helices, delete the object in PyMOL and 
+move the sliders again. 
+
+
+### Trimers
+
+Minor changes are required for the parametrisation and visualisation code, since we are working with three, 
+rather than two helices. The adjusted files are provided in full as *TriCCParamsLib.py* and *TriCCParamsInteractive.py*.
+
+1. Run *ProcessTrimerCoords.py*. Use the same helix template as for the parallel dimers.
+
+Expected output:
+```
+CC reconstruction stats, RMSD:
+min: 0.0941925679087
+max: 0.648050494848
+mean: 0.210258604266
+median: 0.194409653232
+```
+
+2. Run *TriCCParamsStats.py*, it will produce file *pca_trimer_10.pkl*, 
+   which can be used for interactive visualisation.
+
+Expected output:
+```
+Number of components: 10
+Fraction of structures under 1A RMSD: 0.999903138318
+CC reconstruction stats, RMSD:
+min: 0.127235329958
+max: 1.06181204303
+mean: 0.326316370077
+median: 0.300639477533
+```
+
+3. Launch interactive visualisation with PyMol and *TriCCParamsInteractive.py*. 
+Here again the first two parameters will control register and the default position 
+will have three helices overlapped.

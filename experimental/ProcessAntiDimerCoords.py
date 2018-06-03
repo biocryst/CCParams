@@ -1,6 +1,5 @@
 from CCParamsLib import *
 
-
 loaded = np.load('cc_data_anti.npz')
 cc_coords_all = loaded['cc_coords_all']
 n_cc = cc_coords_all.shape[0]
