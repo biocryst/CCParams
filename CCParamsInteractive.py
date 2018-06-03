@@ -1,9 +1,8 @@
 from __future__ import division
-from PyQt5 import QtCore, QtGui, QtWidgets
-import sys, os, cPickle,time
-import rosetta
-from rosetta.numeric import xyzVector_double as xyzVector
-import numpy as np
+from PyQt5 import QtCore, QtWidgets
+import sys, time
+import pyrosetta
+import pyrosetta.rosetta as rosetta
 from CCParamsLib import *
 from Bio.SVDSuperimposer import SVDSuperimposer
 
@@ -21,9 +20,9 @@ class AppForm(QtWidgets.QMainWindow):
         self.sequence = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
         self.stepwise = False
 
-        rosetta.init()
-        self.pose = rosetta.Pose()
-        rosetta.make_pose_from_sequence(self.pose, self.sequence, 'fa_standard',auto_termini=False)
+        pyrosetta.init()
+        self.pose = pyrosetta.Pose()
+        pyrosetta.make_pose_from_sequence(self.pose, self.sequence, 'fa_standard',auto_termini=False)
 
         coord_params = np.zeros((1,self.n_components))
         coord_params = self.pca_kr.inverse_transform(coord_params)[0]/self.coefs
@@ -31,9 +30,8 @@ class AppForm(QtWidgets.QMainWindow):
         self.mean_coords -= self.mean_coords.mean()
         self.sup = SVDSuperimposer()
 
-        # set coords
-        dummy = xyzVector()
-        dummy0 = xyzVector()
+        dummy = rosetta.numeric.xyzVector_double_t()
+        dummy0 = rosetta.numeric.xyzVector_double_t()
         dummy0.x = 0
         dummy0.y = 0
         dummy0.z = 0
@@ -51,7 +49,7 @@ class AppForm(QtWidgets.QMainWindow):
                 dummy.z = v[2]
                 self.pose.residue(r+1).set_xyz(a+1,dummy)
 
-        self.pmm = rosetta.PyMOL_Mover()
+        self.pmm = pyrosetta.PyMOLMover()
         self.pmm.keep_history(False)
         self.pmm.apply(self.pose)
 
@@ -122,10 +120,8 @@ class AppForm(QtWidgets.QMainWindow):
             coords_list = [params2cc(coord_params)]
 
         for coords in coords_list:
-
             coords = self.center_coords(coords)
-
-            dummy = xyzVector()
+            dummy = rosetta.numeric.xyzVector_double_t()
             ind = -1
             for r in range(self.pose.total_residue()):
                 res = self.pose.residue(r+1)

@@ -2,7 +2,7 @@
 Optimal data-driven parameterization of coiled coils
 
 ## Requirements
-pyRMSD, scipy, numpy, sklearn, Biopython. 
+pyRMSD, scipy, numpy, sklearn, Biopython, PyRosetta (optional). 
 
 ## Description of files
 
@@ -53,9 +53,9 @@ the second one -- only non-redundant subset (in which no structure is similar wi
 
 3. Run *HelixTemplate.py*. Note that in the paper we used coordinates of all fragments for this step, 
 while here we take only the a-cluster as the input. This has no impact on the obtained parameterization and reconstruction
-statistics (cf. Fig. 1d).
+statistics.
 
-Expected script output:
+Expected script output (cf. Fig. 1d):
 ```
 Total number of helices: 8236
 Number of unique helices: 2967
@@ -65,3 +65,45 @@ max: 0.792185424998
 mean: 0.229877830959
 median: 0.205617162334
 ```
+
+4. Run *ProcessDimerACoords.py*. This step will convert CC fragment coordinates from file 
+*dimer_a_unique_0.2.pkl* into 'extended' parametrization and test the reconstruction accuracy.
+The results will be stored in the file *dimer_a_params_coords.pkl*.
+
+Expected output (cf. Fig 3c):
+```
+CC reconstruction stats, RMSD:
+min: 0.0899008249849
+max: 0.680252038429
+mean: 0.232043925963
+median: 0.212188994827
+```
+
+5. Run *CCParamsStats.py*. This script will go through CC paramaterizations with the number of parameters 
+varying from 1 to 10 and output reconstruction statistics. Every reconstruction's parameters are optimised to minimize RMSD
+to the target structures, so it'll take a while. 
+
+Expected output, the first and the last batches are shown (cf. Fig 3c):
+```
+Number of components: 1
+Fraction of structures under 1A RMSD: 0.982269503546
+CC reconstruction stats, RMSD:
+min: 0.190088304232
+max: 1.10620154112
+mean: 0.517878054167
+median: 0.48013578893
+...
+
+Number of components: 10
+Fraction of structures under 1A RMSD: 1.0
+CC reconstruction stats, RMSD:
+min: 0.0968117019343
+max: 0.685145833173
+mean: 0.250808975295
+median: 0.231687949811
+```
+
+6. Launch PyMOL, Open File-> Run Script..., find and select *PyMOL-RosettaServer.py* ([PyRosetta](http://www.pyrosetta.org/dow) is required) 
+Run *CCParamsInteractive.py*. If everything went well, you should be able to 
+modify parameters of CCs (first 10 are shown) and see the 
+geometry changing in PyMOL in real time. cf. Fig. 3d-f
