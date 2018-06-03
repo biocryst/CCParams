@@ -132,9 +132,10 @@ for item in ccoils:
     for cc in coiled_coils:
         cc_coords_all.append(cc)
 
+cc_coords_all = np.array(cc_coords_all)
 cPickle.dump(cc_coords_all, open('dimer_a_all.pkl', "wb"))
 
-print "Total number of fragments collected:", len(cc_coords_all)
+print "Total number of fragments collected:", cc_coords_all.shape[0]
 
 threshold = 0.2
 
